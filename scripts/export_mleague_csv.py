@@ -119,6 +119,8 @@ game_number_col = choose_column(
         "game_number"
     ],
     "試合番号列"
+)
+
 
 points_col = choose_column(
     result_columns,
